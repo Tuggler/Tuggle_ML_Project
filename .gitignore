@@ -1,6 +1,8 @@
 .venv/
 pycache/
+__pycache__/
 *.pyc
 *.xlsx
 Tuggle_Week*.ipynb
 Tuggle_week*.ipynb
+.tmp_docx_extract/
